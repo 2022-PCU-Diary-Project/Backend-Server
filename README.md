@@ -5,12 +5,14 @@
 ```console
 FastAPI
 Uvicorn
+pymongo
 ```
 
 프레임워크 설치
 ```console
 pip install fastapi
 pip install uvicorn
+pip install pymongo
 ```
 
 콘솔 내 실행 방법 (일반적인 python으로 실행 불가능)
