@@ -1,3 +1,3 @@
-from rest import router
+from rest.router import router
 
 app = router.run()

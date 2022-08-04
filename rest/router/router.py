@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-from rest import test
+from rest.test import test
 
 
 # 라우터 설정
